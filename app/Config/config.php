@@ -9,7 +9,7 @@ return [
         'charset' => 'utf8mb4',
     ],
     'app' => [
-        'base_url' => '/news_web/public',
+        'base_url' => '/test-repo/public',
         'debug' => true,
     ],
 ];
